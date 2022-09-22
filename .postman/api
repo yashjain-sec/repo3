@@ -1,0 +1,22 @@
+id = c8a679e6-f969-45cc-adc0-63c6387e9630
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"76179-f6a5a6fb-dffe-4ed3-8596-34b1b93fa1a3","path":"New Collection -exclusive to A1.json","metaData":{}}
+files[] = {"id":"76179-f3b7e2f8-7c9f-4eae-bb33-5b19733528bb","path":"New Collection(1).json","metaData":{}}
+files[] = {"id":"76179-a776eab0-76d2-43fa-80f3-d9cd5eb74d38","path":"New Collection(2).json","metaData":{}}
+files[] = {"id":"76179-e5be3b30-3ab2-11ed-a261-0242ac120002","path":"New Collection.json","metaData":{}}
+files[] = {"id":"76179-633463c7-102e-4063-9a3a-95bfbb4a35d9","path":"super secret.json","metaData":{}}
+files[] = {"id":"76179-c2289996-04a7-4026-9cb3-7cfa85837a29","path":"test123.json","metaData":{}}
+files[] = {"id":"76179-b1712af4-e10f-4ee7-a5bd-11049918643f","path":"to go out in v1.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
